@@ -1,5 +1,5 @@
 # Code Quiz
 ### An application to test junior JavaScript developer basic JS/HTML/CSS skills.
-The expectation is that a junior designer possesses vanilla JavaScript, CSS, and HTML capabilities to program this application.
+The expectation is that a junior developer possesses vanilla JavaScript, CSS, and HTML capabilities to program this application.
 
 While there are multiple avenues one may take to develop this application, this is a working example with basic coding expectations.
